@@ -86,12 +86,12 @@
         </ul>
     </div>
         
-        <div class="user-management">
+        <div class="form-container">
             <h2 class="section-title">Records</h2>
             
-            <button class="add-user">
-                <i class="fas fa-plus"></i> Add User
-            </button>
+            
+                <i class=""></i> Add User
+        
             
             <div class="user-form">
                 <div class="form-row">
